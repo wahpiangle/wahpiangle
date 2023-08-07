@@ -2,15 +2,15 @@
 <div id="badges">
   <div style="display: flex;">
   <p>
-    My porfolio can be viewed here:
+    View my Porfolio here!:
   </p>
   <a href="https://portfolio-qm.netlify.app/">
-    <img src="https://img.shields.io/badge/Click me!-8A2BE2" alt="Porfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Porfolio Badge"/>
   </a>
   </div>
-  <a href="https://www.linkedin.com/in/tanqm/">
+<!--   <a href="https://www.linkedin.com/in/tanqm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 </div>
 <!--
 **wahpiangle/wahpiangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
