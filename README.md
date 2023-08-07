@@ -1,5 +1,11 @@
 ### Hi there 👋
 <div id="badges">
+  <p>
+    My porfolio can be viewed here:
+  </p>
+  <a href="https://portfolio-qm.netlify.app/">
+    <img src="https://img.shields.io/badge/Click me!-8A2BE2" alt="Porfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/tanqm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
