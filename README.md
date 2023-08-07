@@ -2,7 +2,7 @@
 <div id="badges">
   <div style="display: flex;">
   <p>
-    View my Porfolio here!:
+    View my Porfolio here:
   </p>
   <a href="https://portfolio-qm.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Porfolio Badge"/>
