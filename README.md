@@ -4,7 +4,7 @@
   <p>
     View my Porfolio here:
   </p>
-  <a href="https://portfolio-qm.netlify.app/">
+  <a href="https://portfolio-qm.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Porfolio Badge"/>
   </a>
   </div>
